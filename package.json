@@ -1,0 +1,21 @@
+{
+  "name": "week-two",
+  "version": "1.0.0",
+  "description": "\"# MINI_JS_App\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meir123piskerov/MINI_JS_App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/meir123piskerov/MINI_JS_App/issues"
+  },
+  "homepage": "https://github.com/meir123piskerov/MINI_JS_App#readme"
+}
